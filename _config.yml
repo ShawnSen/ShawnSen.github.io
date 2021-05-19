@@ -1,7 +1,7 @@
 # Site settings
-title: SHEN Blog
+title: Shen Blog
 SEOTitle: 籸的博客 | Shen Blog
-header-img: img/home-bg.jpg
+header-img: img/tag-bg.jpg
 email: huxpro@gmail.com
 description: "菜鸟程序员，记录成长。"
 keyword: "籸, 籸的博客, Shen Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
@@ -77,7 +77,7 @@ ga_domain: shawnsen.github.io
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "编程语言/编译器初心者 <br> An UI/Frontend dev & designer accidentally growing into a compiler/PL hacker."
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -99,9 +99,9 @@ page-mathjax: false
 
 
 # Friends
-friends: [
+# friends: [
     # {
     #     title: "Su",
     #     href: "http://su.gallery/"
     # }
-]
+# ]
