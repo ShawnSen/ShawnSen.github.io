@@ -55,12 +55,14 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: shen
+disqus_username: false
 
 # Netease settings
 netease_comment: false
 
-
+comment_gitment_repo: ShawnSen.github.io
+comment_gitment_clientId: 1fd88d7d4fbfe442eaf3
+comment_gitment_clientSecret: 190bd7300a29dfc45c0df1e9bfcd0312924092e5
 
 # Analytics settings
 # Baidu Analytics 
