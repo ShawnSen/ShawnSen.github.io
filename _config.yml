@@ -4,7 +4,7 @@ SEOTitle: 籸的博客 | Shen Blog
 header-img: img/tag-bg.jpg
 email: huxpro@gmail.com
 description: "菜鸟程序员，记录成长。"
-keyword: "籸, 籸的博客, Shen Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+keyword: "籸, 籸的博客, Shen Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端"
 url: "https://shawnsen.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 github_username:    ShawnSen
-
+lang: zh-cn
 
 
 
@@ -76,7 +76,7 @@ ga_domain: shawnsen.github.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "编程语言/编译器初心者 <br> An UI/Frontend dev & designer accidentally growing into a compiler/PL hacker."
+sidebar-about-description: ""
 sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
